@@ -1,0 +1,585 @@
+<!DOCTYPE html>
+<!-- saved from url=(0028)https://www.couponcodes.com/ -->
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <title>Coupon Codes &amp; Discounts</title>
+      <meta name="description" content="Frustrated by coupon codes that don&#39;t work? We are too! Get verified coupons that actually work at CouponCodes.com">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+       
+       <!--  <link rel="stylesheet" type="text/css" href="./Coupon Codes &amp; Discounts_files/vendor.d3a304cd.css">  --> 
+       <!-- <link rel="stylesheet" type="text/css" href="./Coupon Codes &amp; Discounts_files/global.0d00cc10.css">  -->      
+     
+
+ <style type="text/css">
+ 	a {
+	color: #894ea1;
+	text-decoration: none
+}
+
+a:hover {
+	text-decoration: underline
+}
+header {
+	background-color: #894ea1;
+	margin-bottom: 15px;
+	padding: 20px 0 15px
+}
+
+header #cocos-logo {
+	color: #fff;
+	font-size: 35px;
+	padding-bottom: 5px;
+	text-align: center
+}
+
+header #cocos-logo:hover {
+	text-decoration: none
+}
+
+header #hamburger-menu {
+	color: #231429;
+	font-size: 30px;
+	padding-top: 10px;
+	text-align: left
+}
+
+header #dropdown-menu {
+	display: none
+}
+
+ 
+
+.pure-g {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	margin: auto;
+	max-width: 1300px
+}
+* {
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box
+}
+
+.prefix-1-24 {
+	padding-left: 4.1667%
+}
+
+.suffix-1-24 {
+	padding-right: 4.1667%
+}
+ 
+nav#slider {
+	background-color: #fff;
+	height: 100%;
+	width: 250px;
+	opacity: .25;
+	overflow-y: scroll;
+	position: fixed;
+	right: -250px;
+	top: 0;
+	-webkit-transition: right .5s, opacity .5s ease-out;
+	transition: right .5s, opacity .5s ease-out;
+	z-index: 1000
+}
+
+nav#slider.open {
+	right: 0;
+	opacity: 1
+}
+
+nav#slider .module {
+	border-bottom: 1px solid #efe9dd;
+	color: #894ea1;
+	padding: 20px 25px 15px 30px
+}
+
+nav#slider .module .name {
+	display: inline-block;
+	font-weight: 700;
+	margin-bottom: 5px
+}
+
+nav#slider .module .name i {
+	padding-left: 10px
+}
+
+nav#slider .module .name i.icon-angle-down {
+	display: inline
+}
+
+nav#slider .module ul {
+	display: none
+}
+
+nav#slider .module.selected {
+	padding: 20px 25px 0 30px
+}
+
+nav#slider .module.selected .name {
+	color: #ffadae;
+	border-bottom: 4px solid #ffadae;
+	padding-bottom: 5px
+}
+
+nav#slider .module.selected .name .icon-angle-down {
+	display: none
+}
+
+nav#slider .module.selected ul {
+	display: block;
+	list-style: none;
+	padding: 0;
+	margin: 0 0 20px
+}
+
+nav#slider .module.selected ul li {
+	display: block;
+	margin: 0;
+	font-size: 18px
+}
+
+nav#slider .module.selected ul li>a {
+	display: block;
+	text-decoration: none;
+	padding: 5px 0 10px
+}
+
+nav#slider .module.selected ul li.all {
+	font-weight: 700
+}
+
+#slider-modal {
+	display: none;
+	background-color: rgba(0, 0, 0, .5);
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 999
+}
+ 
+@media screen and (min-width:64em) {
+	header {
+		padding: 20px 0 5px
+	}
+	 
+	header #hamburger-menu {
+		display: none
+	}
+	header #dropdown-menu {
+		font-family: Nunito, arial, sans-serif;
+		color: #231429;
+		display: block;
+		font-size: 12px;
+		letter-spacing: 1px;
+		text-align: right
+	}
+	header #dropdown-menu .name {
+		display: block;
+		font-size: 13px;
+		letter-spacing: .15em;
+		padding: 10px 0 22px
+	}
+	header #dropdown-menu .has-dropdown {
+		display: inline-block;
+		font-size: 15px;
+		position: relative;
+		z-index: 2
+	}
+	header #dropdown-menu .has-dropdown:first-of-type {
+		padding-right: 1%
+	}
+	header #dropdown-menu .has-dropdown:hover .name span {
+		-webkit-transition: all .2s ease-out;
+		transition: all .2s ease-out;
+		color: #ffadae;
+		border-bottom: 4px solid #ffadae;
+		padding-bottom: 5px
+	}
+	header #dropdown-menu .has-dropdown:hover .dropdown {
+		visibility: visible;
+		opacity: 1
+	}
+	header #dropdown-menu .has-dropdown .dropdown {
+		font-family: Nunito, arial, sans-serif;
+		-webkit-box-shadow: 0 3px 10px rgba(0, 0, 0, .125);
+		box-shadow: 0 3px 10px rgba(0, 0, 0, .125);
+		visibility: hidden;
+		opacity: 0;
+		-webkit-transition: visibility 0s .2s, opacity .1s linear;
+		transition: visibility 0s .2s, opacity .1s linear;
+		position: fixed;
+		top: 62px;
+		right: 0;
+		font-size: 14px;
+		text-align: left;
+		background: #fff;
+		padding: 1%;
+		width: 100%;
+		max-width: none;
+		z-index: 10
+	}
+	header #dropdown-menu .has-dropdown .dropdown>div {
+		font-size: 15px;
+		padding: 7px 0 7px 1%
+	}
+	header #dropdown-menu .has-dropdown .dropdown a {
+		font-family: Nunito, arial, sans-serif;
+		color: purple
+	}
+	header #dropdown-menu .has-dropdown .dropdown a:hover {
+		color: #231429;
+		text-decoration: none;
+		-webkit-transition: .5s ease;
+		transition: .5s ease
+	}
+	header #dropdown-menu .has-dropdown .dropdown .all-link {
+		font-weight: 700;
+		padding-left: 81%
+	}
+}
+body {
+	margin: 0
+}
+	article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+menu,
+nav,
+section,
+summary {
+	display: block
+}
+.pure-g {
+	word-spacing: -.43em
+}
+.pure-g [class*=pure-u] {
+	font-family: sans-serif
+}
+.pure-g {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	margin: auto;
+	max-width: 1300px
+}
+ 
+.pure-u-1-8,
+.pure-u-3-24 {
+	width: 12.5%
+}
+.pure-u-1-8{
+	display: inline-block;
+	zoom: 1;
+	letter-spacing: normal;
+	word-spacing: normal;
+	vertical-align: top;
+	text-rendering: auto
+}
+@media screen and (min-width:48em) {
+.pure-u-md-1-12,
+	.pure-u-md-2-24 {
+		width: 8.3333%
+	}
+}
+@media screen and (min-width:48em) {
+	.pure-u-md-1-12{
+		display: inline-block;
+		zoom: 1;
+		letter-spacing: normal;
+		word-spacing: normal;
+		vertical-align: top;
+		text-rendering: auto
+		}
+	}
+		@media screen and (min-width:64em) {
+		.pure-u-lg-1-4,
+	.pure-u-lg-6-24 {
+		width: 25%
+	}
+	.pure-u-lg-6-24{
+		display: inline-block;
+		zoom: 1;
+		letter-spacing: normal;
+		word-spacing: normal;
+		vertical-align: top;
+		text-rendering: auto
+	}
+}
+.pure-u-1-5 {
+	width: 20%
+}
+.pure-u-1-5{
+	display: inline-block;
+	zoom: 1;
+	letter-spacing: normal;
+	word-spacing: normal;
+	vertical-align: top;
+	text-rendering: auto
+}
+
+
+
+.pure-g {
+	letter-spacing: -.31em;
+	text-rendering: optimizespeed;
+	font-family: FreeSans, Arimo, droid sans, Helvetica, Arial, sans-serif;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-flex-flow: row wrap;
+	-ms-flex-flow: row wrap;
+	flex-flow: row wrap;
+	-webkit-align-content: flex-start;
+	-ms-flex-line-pack: start;
+	align-content: flex-start
+}
+ 
+ </style>
+
+ 
+
+      
+       
+   </head>
+   <body>
+      <nav id="slider">
+         <div id="stores" class="module selected">
+            <span class="name">STORES<i aria-hidden="true" class="coupon-icon icon-angle-down"></i></span>
+            <ul>
+               <li><a href="https://www.couponcodes.com/amazon-coupons">Amazon</a></li>
+               <li><a href="https://www.couponcodes.com/eastbay-coupons">Eastbay</a></li>
+               <li><a href="https://www.couponcodes.com/expedia-coupons">Expedia</a></li>
+               <li><a href="https://www.couponcodes.com/kids-footlocker-coupons">Kids Foot Locker</a></li>
+               <li><a href="https://www.couponcodes.com/kohls-coupons">Kohl's</a></li>
+               <li><a href="https://www.couponcodes.com/macys-us-coupons">Macy's</a></li>
+               <li><a href="https://www.couponcodes.com/nordstrom-coupons">Nordstrom</a></li>
+               <li><a href="https://www.couponcodes.com/overstock-coupons">Overstock</a></li>
+               <li><a href="https://www.couponcodes.com/samsung-coupons">Samsung</a></li>
+               <li><a href="https://www.couponcodes.com/stride-rite-coupons">Stride Rite</a></li>
+               <li class="all">
+                  <a href="https://www.couponcodes.com/stores">All 5,719 Stores</a>
+               </li>
+            </ul>
+         </div>
+         <div id="categories" class="module unselected">
+            <span class="name">CATEGORIES<i aria-hidden="true" class="coupon-icon icon-angle-down"></i></span>
+            <ul>
+               <li><a href="https://www.couponcodes.com/tag/art-and-decor">Art &amp; Decor</a></li>
+               <li><a href="https://www.couponcodes.com/tag/auto">Auto</a></li>
+               <li><a href="https://www.couponcodes.com/tag/baby">Baby</a></li>
+               <li><a href="https://www.couponcodes.com/tag/back-yard">Back Yard</a></li>
+               <li><a href="https://www.couponcodes.com/tag/bed-and-bath">Bed &amp; Bath</a></li>
+               <li><a href="https://www.couponcodes.com/tag/bridal-and-formal-wear">Bridal &amp; Formal Wear</a></li>
+               <li><a href="https://www.couponcodes.com/tag/business-services">Business Services</a></li>
+               <li><a href="https://www.couponcodes.com/tag/car-rental">Car Rental</a></li>
+               <li><a href="https://www.couponcodes.com/tag/cell-phones">Cell Phones</a></li>
+               <li><a href="https://www.couponcodes.com/tag/cleaning-and-storage">Cleaning &amp; Storage</a></li>
+               <li class="all">
+                  <a href="https://www.couponcodes.com/tag/list/1">All 63 Categories</a>
+               </li>
+            </ul>
+         </div>
+      </nav>
+      <div id="slider-modal">
+      </div>
+      <header>
+         <div class="prefix-1-24 suffix-1-24">
+            <div class="pure-g">
+                
+                
+               <div class="pure-u-1-8 pure-u-md-1-12 pure-u-lg-6-24">
+                  <div id="dropdown-menu">
+                     <div class="has-dropdown">
+                        <span class="name"><span>STORES <i aria-hidden="true" class="coupon-icon icon-angle-down"></i></span></span>
+                        <div class="dropdown pure-g">
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/advance-autoparts-coupons">Advance Auto Parts</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/amazon-coupons">Amazon</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/eastbay-coupons">Eastbay</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/expedia-coupons">Expedia</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/home-depot-coupons">Home Depot</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/the-bay-coupons">Hudson's Bay</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/inogen-one-coupons">Inogen</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/kids-footlocker-coupons">Kids Foot Locker</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/kohls-coupons">Kohl's</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/lenovo-coupons">Lenovo</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/macys-us-coupons">Macy's</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/macys-canada-coupons">Macy's Canada</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/nordstrom-coupons">Nordstrom</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/onehanesplace-coupons">One Hanes Place</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/overstock-coupons">Overstock</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/proactiv-solution-coupons">Proactiv</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/quickbooks-canada-coupons">QuickBooks Canada</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/samsung-coupons">Samsung</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/seaworldparks-coupons">SeaWorld</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/stride-rite-coupons">Stride Rite</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/supplies-outlet-coupons">Supplies Outlet</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/verizon-coupons">Verizon Wireless</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/vrbo-coupons">Vrbo</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/wsjwine-coupons">WSJwine</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/walmart-coupons">Walmart</a>
+                           </div>
+                           <div class="pure-u-1 all-link">
+                              <a href="https://www.couponcodes.com/stores">All 5,719 Stores</a>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="has-dropdown">
+                        <span class="name"><span>CATEGORIES <i aria-hidden="true" class="coupon-icon icon-angle-down"></i></span></span>
+                        <div class="dropdown pure-g">
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/tag/art-and-decor">Art &amp; Decor</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/tag/auto">Auto</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/tag/baby">Baby</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/tag/back-yard">Back Yard</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/tag/bed-and-bath">Bed &amp; Bath</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/tag/bridal-and-formal-wear">Bridal &amp; Formal Wear</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/tag/business-services">Business Services</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/tag/car-rental">Car Rental</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/tag/cell-phones">Cell Phones</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/tag/cleaning-and-storage">Cleaning &amp; Storage</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/tag/collectibles">Collectibles</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/tag/computer-accessories">Computer Accessories</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/tag/costumes">Costumes</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/tag/crafts">Crafts</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/tag/education">Education</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/tag/electronics">Electronics</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/tag/eye-care">Eye Care</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/tag/flights">Flights</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/tag/foods">Foods</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/tag/gift">Gift</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/tag/haircare-and-skincare">Haircare &amp; Skincare</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/tag/handbags">Handbags</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/tag/health">Health</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/tag/hotels">Hotels</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="https://www.couponcodes.com/tag/jewelry">Jewelry</a>
+                           </div>
+                           <div class="pure-u-1 all-link">
+                              <a href="https://www.couponcodes.com/tag/list/1">All 63 Categories</a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div id="hamburger-menu">
+                     <i aria-hidden="true" class="coupon-icon icon-icon-menu"></i>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </header>
+       
+       
+      <script src="./Coupon Codes &amp; Discounts_files/app.2a7d6e5c.js.download"></script><img src="./Coupon Codes &amp; Discounts_files/z0WVjCBSEeGLoxIxOQVEwQ" alt="">
+      
+      
+       
+      
+   </body>
+</html>
