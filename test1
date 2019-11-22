@@ -1,0 +1,1194 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="utf-8" />
+      <title>CouponCodeWiz</title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+      <meta content="" name="description" />
+      <meta content="Kupons" name="author" />
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+      <link rel="shortcut icon" href="kuponhub.html#">
+      <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+      <link href="assets/css/icons.css" rel="stylesheet" type="text/css">
+      <link href="assets/css/animate.min.css" rel="stylesheet" type="text/css">
+      <link href="assets/css/animsition.min.css" rel="stylesheet" type="text/css">
+      <link href="owl.carousel/assets/owl.carousel.css" rel="stylesheet" type="text/css">
+      <!-- Theme styles -->
+      <link href="assets/css/style.css" rel="stylesheet" type="text/css">
+      <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+      <!-- WARNING: Respond.js doesn't work if you view the page via file -->
+      <!--[if lt IE 9]>
+      <script src="#oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="#oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+      <![endif]-->
+   </head>
+   <body>
+      <div class="site-wrapper animsition" data-animsition-in="fade-in" data-animsition-out="fade-out">
+         <!-- Navigation Bar-->
+         <header class="header">
+            <div class="top-nav  navbar m-b-0 b-0">
+               <div class="container">
+                  <div class="row">
+                     <!-- LOGO -->
+                      <div class="  col-sm-3 col-xs-6">
+                        <a href="index.html" class="logo"> <img src="assets/images/logo.png" alt="" class="img-responsive"> </a>
+                     </div> 
+                     <!-- End Logo container-->
+                     <div class="menu-extras col-sm-5 col-xs-12">
+                        
+                      <div class="newsletter-form" style="margin: 11px auto 0;">
+                         
+                        <div class="input-group">
+                           <input class="form-control input-lg" placeholder=" " type="text"> <span class="input-group-btn">
+                           <button class="btn btn-danger btn-lg" type="button">
+                           Search
+                           </button>
+                           </span> 
+                         
+                         
+                        </div>
+                    </div> 
+                        
+                     </div>
+                     <div class="menu-item">
+                           <!-- Mobile menu toggle-->
+                           <a class="navbar-toggle">
+                              <div class="lines"> <span></span> <span></span> <span></span> </div>
+                           </a>
+                           <!-- End mobile menu toggle-->
+                        </div>
+
+
+                     <div class="pure-u-1-8 pure-u-md-1-12 pure-u-lg-6-24">
+                  <div id="dropdown-menu">
+                     <div class="has-dropdown">
+                        <span class="name"><span>STORES <i aria-hidden="true" class="coupon-icon icon-angle-down"></i></span></span>
+                        <div class="dropdown pure-g">
+                           <div class="pure-u-1-5">
+                              <a href="#/advance-autoparts-coupons">Advance Auto Parts</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="#/amazon-coupons">Amazon</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="#/eastbay-coupons">Eastbay</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="#/expedia-coupons">Expedia</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="#/home-depot-coupons">Home Depot</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="#/the-bay-coupons">Hudson's Bay</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="#/inogen-one-coupons">Inogen</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="#/kids-footlocker-coupons">Kids Foot Locker</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="#/kohls-coupons">Kohl's</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="#/lenovo-coupons">Lenovo</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="#/macys-us-coupons">Macy's</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="#/macys-canada-coupons">Macy's Canada</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="#/nordstrom-coupons">Nordstrom</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="#/onehanesplace-coupons">One Hanes Place</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="#/overstock-coupons">Overstock</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="#/proactiv-solution-coupons">Proactiv</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="#/quickbooks-canada-coupons">QuickBooks Canada</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="#/samsung-coupons">Samsung</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="#/seaworldparks-coupons">SeaWorld</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="#/stride-rite-coupons">Stride Rite</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="#/supplies-outlet-coupons">Supplies Outlet</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="#/verizon-coupons">Verizon Wireless</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="#/vrbo-coupons">Vrbo</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="#/wsjwine-coupons">WSJwine</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="#/walmart-coupons">Walmart</a>
+                           </div>
+                           <div class="pure-u-1 all-link">
+                              <a href="#/stores">All 5,719 Stores</a>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="has-dropdown">
+                        <span class="name"><span>CATEGORIES <i aria-hidden="true" class="coupon-icon icon-angle-down"></i></span></span>
+                        <div class="dropdown pure-g">
+                           <div class="pure-u-1-5">
+                              <a href="#">Art &amp; Decor</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="#">Auto</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="#baby">Baby</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="#back-yard">Back Yard</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="#bed-and-bath">Bed &amp; Bath</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="#bridal-and-formal-wear">Bridal &amp; Formal Wear</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="#business-services">Business Services</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="#car-rental">Car Rental</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="#cell-phones">Cell Phones</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="#cleaning-and-storage">Cleaning &amp; Storage</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="#collectibles">Collectibles</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="#computer-accessories">Computer Accessories</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="#costumes">Costumes</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="#crafts">Crafts</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="#education">Education</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="#electronics">Electronics</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="#eye-care">Eye Care</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="#flights">Flights</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="#foods">Foods</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="#gift">Gift</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="#haircare-and-skincare">Haircare &amp; Skincare</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="#handbags">Handbags</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="#health">Health</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="#hotels">Hotels</a>
+                           </div>
+                           <div class="pure-u-1-5">
+                              <a href="#jewelry">Jewelry</a>
+                           </div>
+                           <div class="pure-u-1 all-link">
+                              <a href="#list/1">All 63 Categories</a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div id="hamburger-menu">
+                     <i aria-hidden="true" class="coupon-icon icon-icon-menu"></i>
+                  </div>
+               </div>
+
+
+                     
+                      
+                  </div>
+               </div>
+            </div>
+
+            <div class="navbar-custom shadow">
+               <div class="container">
+                  <div id="navigation" style="display: none;">
+                     <!-- Navigation Menu-->
+                     <ul class="navigation-menu">
+                        <!-- <li class="active"> <a href="index.html">  <span> Home </span> </a> </li> -->
+                        <li class="has-submenu">
+                           <a href="#">  <span> STORES </span> </a>
+                           <ul class="submenu">
+                              <li><a href="results.html">Amazon</a> </li>
+                              <li><a href="results_2.html">Eastbay</a> </li>
+                              <li><a href="#">Expedia</a></li>
+                              <li><a href="#">Kids Foot Locker</a></li>
+                              <li><a href="#">Kohl's</a></li>
+                              <li><a href="#">Macy's</a></li>
+                              <li><a href="">Nordstrom</a></li>
+                              <li><a href="#">Overstock</a></li>
+                              <li><a href="#">Samsung</a></li>
+                              <li><a href="">Stride Rite</a></li>
+                              <li class="all">
+                                    <a href="#">All 5,719 Stores</a>
+                              </li>
+                           </ul>
+                        </li>
+                        <li class="has-submenu">
+                           <!-- <a href="#">  <span> Stores </span> </a> -->
+                           <ul class="submenu">
+                              <li><a href="store_profile.html">CATEGORIES</a> </li>
+                              <li><a href="categories.html">Store categories</a> </li>
+                           </ul>
+                        </li>
+                        <li class="has-submenu last-elements">
+                           <a href="#">  <span> Pages </span> </a>
+                           <ul class="submenu">    
+                           <li><a href="#">Auto</a></li>
+                           <li><a href="#">Baby</a></li>
+                           <li><a href="#">Back Yard</a></li>
+                           <li><a href="#">Bed &amp; Bath</a></li>
+                           <li><a href="#">Bridal &amp; Formal Wear</a></li>
+                           <li><a href="#">Business Services</a></li>
+                           <li><a href="#">Car Rental</a></li>
+                           <li><a href="#">Cell Phones</a></li>
+                           <li><a href="#">Cleaning &amp; Storage</a></li>
+                           <li class="all">
+                              <a href="#">All 63 Categories</a>
+                           </li>
+                           </ul>
+                        </li>
+                     </ul>
+                     <!-- End navigation menu  -->
+                  </div>
+               </div>
+            </div>
+            
+         </header>
+         <!-- Navigation ends -->
+         <div class="wrapper">
+            <div class="container">
+               <div class="row">
+                  <div class="col-lg-12">
+                       <div class="clearfix"></div>
+                     <div class="widget">
+                        
+                        <div class="widget-body">
+                           <div class="row">
+                              <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6 thumb">
+                                 <div class="thumb-inside">
+                                    <a class="thumbnail" href="#"> <img class="img-responsive" src="assets/images/thumb6.png" alt=""> </a> <span class="favorite"><a href="#" data-toggle="tooltip" data-placement="left" title="" data-original-title="Save store"><i class="ti-heart"></i></a></span> 
+                                 </div>
+                                 <div class="store_name text-center">
+                                    <h5>Wallshop</h5>
+                                 </div>
+                              </div>
+                              <!-- /thumb -->
+                              <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6 thumb">
+                                 <div class="thumb-inside">
+                                    <a class="thumbnail" href="#"> <img class="img-responsive" src="assets/images/thumb1.png" alt=""> </a> <span class="favorite"><a href="#" data-toggle="tooltip" data-placement="left" title="" data-original-title="Save store"><i class="ti-heart"></i></a></span> 
+                                 </div>
+                                 <div class="store_name text-center">
+                                    <h5>Shopers</h5>
+                                 </div>
+                              </div>
+                              <!-- /thumb -->
+                              <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6 thumb">
+                                 <div class="thumb-inside">
+                                    <a class="thumbnail" href="#"> <img class="img-responsive" src="assets/images/thumb2.png" alt=""> </a> <span class="favorite"><a href="#" data-toggle="tooltip" data-placement="left" title="" data-original-title="Save store"><i class="ti-heart"></i></a></span> 
+                                 </div>
+                                 <div class="store_name text-center">
+                                    <h5>Shoplogo</h5>
+                                 </div>
+                              </div>
+                              <!-- /thumb -->
+                              <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6 thumb">
+                                 <div class="thumb-inside">
+                                    <a class="thumbnail" href="#"> <img class="img-responsive" src="assets/images/thumb3.png" alt=""> </a> <span class="favorite"><a href="#" data-toggle="tooltip" data-placement="left" title="" data-original-title="Save store"><i class="ti-heart"></i></a></span> 
+                                 </div>
+                                 <div class="store_name text-center">
+                                    <h5>Affiliate</h5>
+                                 </div>
+                              </div>
+                              <!-- /thumb -->
+                              <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6 thumb">
+                                 <div class="thumb-inside">
+                                    <a class="thumbnail" href="#"> <img class="img-responsive" src="assets/images/thumb4.png" alt=""> </a> <span class="favorite"><a href="#" data-toggle="tooltip" data-placement="left" title="" data-original-title="Save store"><i class="ti-heart"></i></a></span> 
+                                 </div>
+                                 <div class="store_name text-center">
+                                    <h5>Coupons</h5>
+                                 </div>
+                              </div>
+                              <!-- /thumb -->
+                              <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6 thumb">
+                                 <div class="thumb-inside">
+                                    <a class="thumbnail" href="#"> <img class="img-responsive" src="assets/images/thumb5.png" alt=""> </a> <span class="favorite"><a href="#" data-toggle="tooltip" data-placement="left" title="" data-original-title="Save store"><i class="ti-heart"></i></a></span> 
+                                 </div>
+                                 <div class="store_name text-center">
+                                    <h5>Discounts</h5>
+                                 </div>
+                              </div>
+                              <!-- /thumb -->
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="row">
+                  <div class="col-lg-2">
+                  </div> 
+                  <div class="col-lg-8">
+                     <ul class="nav nav-tabs responsive-tabs" id="myTab">
+                        <li class="active"><a data-toggle="tab" href="#popular"><i class="ti-bar-chart"></i>Popular </a> </li>
+                        <li class=""><a data-toggle="tab" href="#ending"><i class="ti-timer"></i> Ending soon</a> </li>
+                        <li class=""><a data-toggle="tab" href="#online"><i class="ti-link"></i>Online</a> </li>
+                        <li class=""><a data-toggle="tab" href="#atStore"><i class="ti-receipt"></i>In-store</a> </li>
+                     </ul>
+                     <div class="tab-content clearfix" id="myTabContent">
+                        <div id="popular" class="tab-pane counties-pane active animated fadeIn">
+                           <div class="coupon-wrapper row">
+                              <div class="coupon-data col-sm-2 text-center">
+                                 <div class="savings text-center">
+                                    <div>
+                                       <div class="large">72%</div>
+                                       <div class="small">off</div>
+                                       <div class="type">Deal</div>
+                                    </div>
+                                 </div>
+                                 <!-- end:Savings -->
+                              </div>
+                              <!-- end:Coupon data -->
+                              <div class="coupon-contain col-sm-7">
+                                 <h4 class="coupon-title"><a href="#">Extra 10% Off Select Luggage + Up To $150 Back In Points For Members + Free Shipping</a></h4>
+                                 
+                                 <ul class="coupon-details list-inline">
+                                    <li class="list-inline-item">
+                                       <div class="btn-group" role="group" aria-label="...">
+                                          <i class="fa fa-check" aria-hidden="true" style="color:#3abb70;"></i>
+                                       </div>
+                                       <!-- end:Btn group -->
+                                    </li>
+                                    <li class="list-inline-item">Verified</li>
+                                    <li class="list-inline-item">Expires 11/22/2019</li>
+                                 </ul>
+                                 <!-- end:Coupon details -->
+                              </div>
+                              <!-- end:Coupon cont -->
+                              <div class="button-contain col-sm-3 text-center">
+                                 <p class="btn-code" data-toggle="modal" data-target=".couponModal"> <span class="partial-code">BTSBAGS</span> <span class="btn-hover">Get Code</span> </p>
+                                
+                              </div>
+                           </div>
+                           <!-- end: coupon wrap -->
+                           <div class="coupon-wrapper row featured">
+                              <div class="coupon-data col-sm-2 text-center">
+                                 <div class="savings text-center">
+                                    <div>
+                                       <div class="large">25%</div>
+                                       <div class="small">off</div>
+                                       <div class="type">Coupon</div>
+                                    </div>
+                                 </div>
+                                 <!-- end:Savings -->
+                              </div>
+                              <!-- end:Coupon data -->
+                              <div class="coupon-contain col-sm-7">
+                                 <h4 class="coupon-title"><a href="#">Up To 70% Off | Shopname Promo Codes &amp; Coupons</a></h4>
+                                 <ul class="coupon-details list-inline">
+                                    <li class="list-inline-item">
+                                       <div class="btn-group" role="group" aria-label="...">
+                                          <i class="fa fa-check" aria-hidden="true" style="color:#3abb70;"></i>
+                                       </div>
+                                       <!-- end:Btn group -->
+                                    </li>
+                                    <li class="list-inline-item">Verified</li>
+                                    <li class="list-inline-item">Expires 11/22/2019</li>
+                                 </ul>
+                                 <!-- end:Coupon details -->
+                              </div>
+                              <!-- end:Coupon cont -->
+                              <div class="button-contain col-sm-3 text-center">
+                                 <p class="btn-code" data-toggle="modal" data-target=".couponModal"> <span class="partial-code">BTSBAGS</span> <span class="btn-hover">Get Code</span> </p>
+                              </div>
+                           </div>
+                           <!-- end: coupon wrap -->
+                           <div class="coupon-wrapper row">
+                              <div class="coupon-data col-sm-2 text-center">
+                                 <div class="savings text-center">
+                                    <div>
+                                       <div class="large">15%</div>
+                                       <div class="small">off</div>
+                                       <div class="type">Coupon</div>
+                                    </div>
+                                 </div>
+                                 <!-- end:Savings -->
+                              </div>
+                              <!-- end:Coupon data -->
+                              <div class="coupon-contain col-sm-7">
+                                 <h4 class="coupon-title"><a href="#">20% Off With In-Store Pick-Up</a></h4>
+                                
+                                 <ul class="coupon-details list-inline">
+                                    <li class="list-inline-item">
+                                       <div class="btn-group" role="group" aria-label="...">
+                                          <i class="fa fa-check" aria-hidden="true" style="color:#3abb70;"></i>
+                                       </div>
+                                       <!-- end:Btn group -->
+                                    </li>
+                                    <li class="list-inline-item">Verified</li>
+                                    <li class="list-inline-item">Expires 11/22/2019</li>
+                                 </ul>
+                                 <!-- end:Coupon details -->
+                              </div>
+                              <!-- end:Coupon cont -->
+                              <div class="button-contain col-sm-3 text-center">
+                                 <p class="btn-code" data-toggle="modal" data-target=".couponModal"> <span class="partial-code">BTSBAGS</span> <span class="btn-hover">Get Code</span> </p>
+                              </div>
+                           </div>
+                           <!-- end: coupon wrap -->
+                           <div class="coupon-wrapper row">
+                              <div class="coupon-data col-sm-2 text-center">
+                                 <div class="savings text-center">
+                                    <div>
+                                       <div class="large">72%</div>
+                                       <div class="small">off</div>
+                                       <div class="type">Deal</div>
+                                    </div>
+                                 </div>
+                                 <!-- end:Savings -->
+                              </div>
+                              <!-- end:Coupon data -->
+                              <div class="coupon-contain col-sm-7">
+                                 <h4 class="coupon-title"><a href="#">Extra 10% Off Select Luggage + Up To $150 Back In Points For Members + Free Shipping</a></h4><ul class="coupon-details list-inline">
+                                    <li class="list-inline-item">
+                                       <div class="btn-group" role="group" aria-label="...">
+                                          <i class="fa fa-check" aria-hidden="true" style="color:#3abb70;"></i>
+                                       </div>
+                                       <!-- end:Btn group -->
+                                    </li>
+                                    <li class="list-inline-item">Verified</li>
+                                    <li class="list-inline-item">Expires 11/22/2019</li>
+                                 </ul>
+                                 <!-- end:Coupon details -->
+                              </div>
+                              <!-- end:Coupon cont -->
+                              <div class="button-contain col-sm-3 text-center">
+                                 <p class="btn-code" data-toggle="modal" data-target=".couponModal"> <span class="partial-code">BTSBAGS</span> <span class="btn-hover">Get Code</span> </p>
+                              </div>
+                           </div>
+                           <!-- end: coupon wrap -->
+                        </div>
+                        <div id="ending" class="tab-pane counties-pane animated fadeIn">
+                           <div class="coupon-wrapper row">
+                              <div class="coupon-data col-sm-2 text-center">
+                                 <div class="savings text-center">
+                                    <div>
+                                       <div class="large">45%</div>
+                                       <div class="small">off</div>
+                                       <div class="type">Coupon</div>
+                                    </div>
+                                 </div>
+                                 <!-- end:Savings -->
+                              </div>
+                              <!-- end:Coupon data -->
+                              <div class="coupon-contain col-sm-7">
+                                 <h4 class="coupon-title"><a href="#">Clearance up to 50% off</a></h4>
+                                  <ul class="coupon-details list-inline">
+                                    <li class="list-inline-item">
+                                       <div class="btn-group" role="group" aria-label="...">
+                                          <i class="fa fa-check" aria-hidden="true" style="color:#3abb70;"></i>
+                                       </div>
+                                       <!-- end:Btn group -->
+                                    </li>
+                                    <li class="list-inline-item">Verified</li>
+                                    <li class="list-inline-item">Expires 11/22/2019</li>
+                                 </ul>
+                                 <!-- end:Coupon details -->
+                              </div>
+                              <!-- end:Coupon cont -->
+                              <div class="button-contain col-sm-3 text-center">
+                                 <p class="btn-code" data-toggle="modal" data-target=".couponModal"> <span class="partial-code">BTSBAGS</span> <span class="btn-hover">Get Code</span> </p>
+                              </div>
+                           </div>
+                           <!-- end: coupon wrap -->
+                           <div class="coupon-wrapper row">
+                              <div class="coupon-data col-sm-2 text-center">
+                                 <div class="savings text-center">
+                                    <div>
+                                       <div class="large">50%</div>
+                                       <div class="small">off</div>
+                                       <div class="type">Coupon</div>
+                                    </div>
+                                 </div>
+                                 <!-- end:Savings -->
+                              </div>
+                              <!-- end:Coupon data -->
+                              <div class="coupon-contain col-sm-7">
+                                 <h4 class="coupon-title"><a href="#">Jack Black Men's Pit Boss Antiperspirant & Deodorant</a></h4>
+                                  <ul class="coupon-details list-inline">
+                                    <li class="list-inline-item">
+                                       <div class="btn-group" role="group" aria-label="...">
+                                          <i class="fa fa-check" aria-hidden="true" style="color:#3abb70;"></i>
+                                       </div>
+                                       <!-- end:Btn group -->
+                                    </li>
+                                    <li class="list-inline-item">Verified</li>
+                                    <li class="list-inline-item">Expires 11/22/2019</li>
+                                 </ul>
+                                 <!-- end:Coupon details -->
+                              </div>
+                              <!-- end:Coupon cont -->
+                              <div class="button-contain col-sm-3 text-center">
+                                 <p class="btn-code" data-toggle="modal" data-target=".couponModal"> <span class="partial-code">BTSBAGS</span> <span class="btn-hover">Get Code</span> </p>
+                              </div>
+                           </div>
+                           <!-- end: coupon wrap -->
+                           <div class="coupon-wrapper row">
+                              <div class="coupon-data col-sm-2 text-center">
+                                 <div class="savings text-center">
+                                    <div>
+                                       <div class="large">72%</div>
+                                       <div class="small">off</div>
+                                       <div class="type">Deal</div>
+                                    </div>
+                                 </div>
+                                 <!-- end:Savings -->
+                              </div>
+                              <!-- end:Coupon data -->
+                              <div class="coupon-contain col-sm-7">
+                                 <h4 class="coupon-title"><a href="#">Extra 10% Off Select Luggage + Up To $150 Back In Points For Members + Free Shipping</a></h4>
+                                  <ul class="coupon-details list-inline">
+                                    <li class="list-inline-item">
+                                       <div class="btn-group" role="group" aria-label="...">
+                                          <i class="fa fa-check" aria-hidden="true" style="color:#3abb70;"></i>
+                                       </div>
+                                       <!-- end:Btn group -->
+                                    </li>
+                                    <li class="list-inline-item">Verified</li>
+                                    <li class="list-inline-item">Expires 11/22/2019</li>
+                                 </ul>
+                                 <!-- end:Coupon details -->
+                              </div>
+                              <!-- end:Coupon cont -->
+                              <div class="button-contain col-sm-3 text-center">
+                                 <p class="btn-code" data-toggle="modal" data-target=".couponModal"> <span class="partial-code">BTSBAGS</span> <span class="btn-hover">Get Code</span> </p>
+                              </div>
+                           </div>
+                           <!-- end: coupon wrap -->
+                           <div class="coupon-wrapper row">
+                              <div class="coupon-data col-sm-2 text-center">
+                                 <div class="savings text-center">
+                                    <div>
+                                       <div class="large">50%</div>
+                                       <div class="small">off</div>
+                                       <div class="type">Coupon</div>
+                                    </div>
+                                 </div>
+                                 <!-- end:Savings -->
+                              </div>
+                              <!-- end:Coupon data -->
+                              <div class="coupon-contain col-sm-7">
+                                 <h4 class="coupon-title"><a href="#">Jack Black Men's Pit Boss Antiperspirant & Deodorant</a></h4>
+                                  <ul class="coupon-details list-inline">
+                                    <li class="list-inline-item">
+                                       <div class="btn-group" role="group" aria-label="...">
+                                          <i class="fa fa-check" aria-hidden="true" style="color:#3abb70;"></i>
+                                       </div>
+                                       <!-- end:Btn group -->
+                                    </li>
+                                    <li class="list-inline-item">Verified</li>
+                                    <li class="list-inline-item">Expires 11/22/2019</li>
+                                 </ul>
+                                 <!-- end:Coupon details -->
+                              </div>
+                              <!-- end:Coupon cont -->
+                              <div class="button-contain col-sm-3 text-center">
+                                 <p class="btn-code" data-toggle="modal" data-target=".couponModal"> <span class="partial-code">BTSBAGS</span> <span class="btn-hover">Get Code</span> </p>
+                              </div>
+                           </div>
+                           <!-- end: coupon wrap -->
+                        </div>
+                        <div id="online" class="tab-pane counties-pane animated fadeIn">
+                           <div class="coupon-wrapper row featured">
+                              <div class="coupon-data col-sm-2 text-center">
+                                 <div class="savings text-center">
+                                    <div>
+                                       <div class="large">25%</div>
+                                       <div class="small">off</div>
+                                       <div class="type">Coupon</div>
+                                    </div>
+                                 </div>
+                                 <!-- end:Savings -->
+                              </div>
+                              <!-- end:Coupon data -->
+                              <div class="coupon-contain col-sm-7">
+                                 <h4 class="coupon-title"><a href="#">Up To 70% Off | Shopname Promo Codes &amp; Coupons</a></h4> 
+                                 <ul class="coupon-details list-inline">
+                                    <li class="list-inline-item">
+                                       <div class="btn-group" role="group" aria-label="...">
+                                          <i class="fa fa-check" aria-hidden="true" style="color:#3abb70;"></i>
+                                       </div>
+                                       <!-- end:Btn group -->
+                                    </li>
+                                    <li class="list-inline-item">Verified</li>
+                                    <li class="list-inline-item">Expires 11/22/2019</li>
+                                 </ul>
+                                 <!-- end:Coupon details -->
+                              </div>
+                              <!-- end:Coupon cont -->
+                              <div class="button-contain col-sm-3 text-center">
+                                 <p class="btn-code" data-toggle="modal" data-target=".couponModal"> <span class="partial-code">BTSBAGS</span> <span class="btn-hover">Get Code</span> </p>
+                              </div>
+                           </div>
+                           <!-- end: coupon wrap -->
+                           <div class="coupon-wrapper row">
+                              <div class="coupon-data col-sm-2 text-center">
+                                 <div class="savings text-center">
+                                    <div>
+                                       <div class="large">15%</div>
+                                       <div class="small">off</div>
+                                       <div class="type">Coupon</div>
+                                    </div>
+                                 </div>
+                                 <!-- end:Savings -->
+                              </div>
+                              <!-- end:Coupon data -->
+                              <div class="coupon-contain col-sm-7">
+                                 <h4 class="coupon-title"><a href="#">20% Off With In-Store Pick-Up</a></h4>
+                                  <ul class="coupon-details list-inline">
+                                    <li class="list-inline-item">
+                                       <div class="btn-group" role="group" aria-label="...">
+                                          <i class="fa fa-check" aria-hidden="true" style="color:#3abb70;"></i>
+                                       </div>
+                                       <!-- end:Btn group -->
+                                    </li>
+                                    <li class="list-inline-item">Verified</li>
+                                    <li class="list-inline-item">Expires 11/22/2019</li>
+                                 </ul>
+                                 <!-- end:Coupon details -->
+                              </div>
+                              <!-- end:Coupon cont -->
+                              <div class="button-contain col-sm-3 text-center">
+                                 <p class="btn-code" data-toggle="modal" data-target=".couponModal"> <span class="partial-code">BTSBAGS</span> <span class="btn-hover">Get Code</span> </p>
+                              </div>
+                           </div>
+                           <!-- end: coupon wrap -->
+                           <div class="coupon-wrapper row">
+                              <div class="coupon-data col-sm-2 text-center">
+                                 <div class="savings text-center">
+                                    <div>
+                                       <div class="large">72%</div>
+                                       <div class="small">off</div>
+                                       <div class="type">Deal</div>
+                                    </div>
+                                 </div>
+                                 <!-- end:Savings -->
+                              </div>
+                              <!-- end:Coupon data -->
+                              <div class="coupon-contain col-sm-7">
+                                 <h4 class="coupon-title"><a href="#">Extra 10% Off Select Luggage + Up To $150 Back In Points For Members + Free Shipping</a></h4> 
+                                 <ul class="coupon-details list-inline">
+                                    <li class="list-inline-item">
+                                       <div class="btn-group" role="group" aria-label="...">
+                                          <i class="fa fa-check" aria-hidden="true" style="color:#3abb70;"></i>
+                                       </div>
+                                       <!-- end:Btn group -->
+                                    </li>
+                                    <li class="list-inline-item">Verified</li>
+                                    <li class="list-inline-item">Expires 11/22/2019</li>
+                                 </ul>
+                                 <!-- end:Coupon details -->
+                              </div>
+                              <!-- end:Coupon cont -->
+                              <div class="button-contain col-sm-3 text-center">
+                                 <p class="btn-code" data-toggle="modal" data-target=".couponModal"> <span class="partial-code">BTSBAGS</span> <span class="btn-hover">Get Code</span> </p>
+                              </div>
+                           </div>
+                           <!-- end: coupon wrap -->
+                           <div class="coupon-wrapper row">
+                              <div class="coupon-data col-sm-2 text-center">
+                                 <div class="savings text-center">
+                                    <div>
+                                       <div class="large">50%</div>
+                                       <div class="small">off</div>
+                                       <div class="type">Coupon</div>
+                                    </div>
+                                 </div>
+                                 <!-- end:Savings -->
+                              </div>
+                              <!-- end:Coupon data -->
+                              <div class="coupon-contain col-sm-7">
+                                 <h4 class="coupon-title"><a href="#">Jack Black Men's Pit Boss Antiperspirant & Deodorant</a></h4>
+                                  <ul class="coupon-details list-inline">
+                                    <li class="list-inline-item">
+                                       <div class="btn-group" role="group" aria-label="...">
+                                          <i class="fa fa-check" aria-hidden="true" style="color:#3abb70;"></i>
+                                       </div>
+                                       <!-- end:Btn group -->
+                                    </li>
+                                    <li class="list-inline-item">Verified</li>
+                                    <li class="list-inline-item">Expires 11/22/2019</li>
+                                 </ul>
+                                 <!-- end:Coupon details -->
+                              </div>
+                              <!-- end:Coupon cont -->
+                              <div class="button-contain col-sm-3 text-center">
+                                 <p class="btn-code" data-toggle="modal" data-target=".couponModal"> <span class="partial-code">BTSBAGS</span> <span class="btn-hover">Get Code</span> </p>
+                                 <div class="btn-group" role="group" aria-label="...">
+                              </div>
+                           </div>
+                           <!-- end: coupon wrap -->
+                        </div>
+                        <div id="atStore" class="tab-pane counties-pane animated fadeIn">
+                           <div class="coupon-wrapper row featured">
+                              <div class="coupon-data col-sm-2 text-center">
+                                 <div class="savings text-center">
+                                    <div>
+                                       <div class="large">25%</div>
+                                       <div class="small">off</div>
+                                       <div class="type">Coupon</div>
+                                    </div>
+                                 </div>
+                                 <!-- end:Savings -->
+                              </div>
+                              <!-- end:Coupon data -->
+                              <div class="coupon-contain col-sm-7">
+                                 <h4 class="coupon-title"><a href="#">Up To 70% Off | Shopname Promo Codes &amp; Coupons</a></h4>
+                                  <ul class="coupon-details list-inline">
+                                    <li class="list-inline-item">
+                                       <div class="btn-group" role="group" aria-label="...">
+                                          <i class="fa fa-check" aria-hidden="true" style="color:#3abb70;"></i>
+                                       </div>
+                                       <!-- end:Btn group -->
+                                    </li>
+                                    <li class="list-inline-item">Verified</li>
+                                    <li class="list-inline-item">Expires 11/22/2019</li>
+                                 </ul>
+                                 <!-- end:Coupon details -->
+                              </div>
+                              <!-- end:Coupon cont -->
+                              <div class="button-contain col-sm-3 text-center">
+                                 <p class="btn-code" data-toggle="modal" data-target=".couponModal"> <span class="partial-code">BTSBAGS</span> <span class="btn-hover">Get Code</span> </p>
+                              </div>
+                           </div>
+                           <!-- end: coupon wrap -->
+                           <div class="coupon-wrapper row">
+                              <div class="coupon-data col-sm-2 text-center">
+                                 <div class="savings text-center">
+                                    <div>
+                                       <div class="large">15%</div>
+                                       <div class="small">off</div>
+                                       <div class="type">Coupon</div>
+                                    </div>
+                                 </div>
+                                 <!-- end:Savings -->
+                              </div>
+                              <!-- end:Coupon data -->
+                              <div class="coupon-contain col-sm-7">
+                                 <h4 class="coupon-title"><a href="#">20% Off With In-Store Pick-Up</a></h4>
+                                  <ul class="coupon-details list-inline">
+                                    <li class="list-inline-item">
+                                       <div class="btn-group" role="group" aria-label="...">
+                                          <i class="fa fa-check" aria-hidden="true" style="color:#3abb70;"></i>
+                                       </div>
+                                       <!-- end:Btn group -->
+                                    </li>
+                                    <li class="list-inline-item">Verified</li>
+                                    <li class="list-inline-item">Expires 11/22/2019</li>
+                                 </ul>
+                                 <!-- end:Coupon details -->
+                              </div>
+                              <!-- end:Coupon cont -->
+                              <div class="button-contain col-sm-3 text-center">
+                                 <p class="btn-code" data-toggle="modal" data-target=".couponModal"> <span class="partial-code">BTSBAGS</span> <span class="btn-hover">Get Code</span> </p>
+                              </div>
+                           </div>
+                           <!-- end: coupon wrap -->
+                           <div class="coupon-wrapper row">
+                              <div class="coupon-data col-sm-2 text-center">
+                                 <div class="savings text-center">
+                                    <div>
+                                       <div class="large">72%</div>
+                                       <div class="small">off</div>
+                                       <div class="type">Deal</div>
+                                    </div>
+                                 </div>
+                                 <!-- end:Savings -->
+                              </div>
+                              <!-- end:Coupon data -->
+                              <div class="coupon-contain col-sm-7">
+                                 <h4 class="coupon-title"><a href="#">Extra 10% Off Select Luggage + Up To $150 Back In Points For Members + Free Shipping</a></h4>
+                                  <ul class="coupon-details list-inline">
+                                    <li class="list-inline-item">
+                                       <div class="btn-group" role="group" aria-label="...">
+                                          <i class="fa fa-check" aria-hidden="true" style="color:#3abb70;"></i>
+                                       </div>
+                                       <!-- end:Btn group -->
+                                    </li>
+                                    <li class="list-inline-item">Verified</li>
+                                    <li class="list-inline-item">Expires 11/22/2019</li>
+                                 </ul>
+                                 <!-- end:Coupon details -->
+                              </div>
+                              <!-- end:Coupon cont -->
+                              <div class="button-contain col-sm-3 text-center">
+                                 <p class="btn-code" data-toggle="modal" data-target=".couponModal"> <span class="partial-code">BTSBAGS</span> <span class="btn-hover">Get Code</span> </p>
+                              </div>
+                           </div>
+                           <!-- end: coupon wrap -->
+                           <div class="coupon-wrapper row">
+                              <div class="coupon-data col-sm-2 text-center">
+                                 <div class="savings text-center">
+                                    <div>
+                                       <div class="large">50%</div>
+                                       <div class="small">off</div>
+                                       <div class="type">Coupon</div>
+                                    </div>
+                                 </div>
+                                 <!-- end:Savings -->
+                              </div>
+                              <!-- end:Coupon data -->
+                              <div class="coupon-contain col-sm-7">
+                                 <h4 class="coupon-title"><a href="#">Jack Black Men's Pit Boss Antiperspirant & Deodorant</a></h4>
+                                  <ul class="coupon-details list-inline">
+                                    <li class="list-inline-item">
+                                       <div class="btn-group" role="group" aria-label="...">
+                                          <i class="fa fa-check" aria-hidden="true" style="color:#3abb70;"></i>
+                                       </div>
+                                       <!-- end:Btn group -->
+                                    </li>
+                                    <li class="list-inline-item">Verified</li>
+                                    <li class="list-inline-item">Expires 11/22/2019</li>
+                                 </ul>
+                                 <!-- end:Coupon details -->
+                              </div>
+                              <!-- end:Coupon cont -->
+                              <div class="button-contain col-sm-3 text-center">
+                                 <p class="btn-code" data-toggle="modal" data-target=".couponModal"> <span class="partial-code">BTSBAGS</span> <span class="btn-hover">Get Code</span> </p>
+                              </div>
+                           </div>
+                           <!-- end: coupon wrap -->
+                        </div>
+                     </div>
+                     <!-- end: Tab content -->
+                   
+                     <!-- end: Tab content -->
+                  </div>
+                  <div class="col-lg-2">
+                  </div>   
+               </div>
+            </div>
+            <div style="background: #fff">
+               
+            
+            <div class="container">
+               <!-- End row -->
+               <div class="row">
+                  <div class="col-lg-12">
+                     
+                     <ul class="nav nav-tabs" id="multitabs">
+                        <li class="active"><a data-toggle="tab" href="#tab1">Popular stores</a> </li>
+                        <li class=""><a data-toggle="tab" href="#tab2">Popular Categories</a> </li>
+                     </ul>
+                     <div class="tab-content clearfix" id="multitabsContent">
+                        <div id="tab1" class="tab-pane counties-pane active">
+                           <div class="col-sm-3">
+                              <div class="row coupons-cat">
+                                 <div> <a href="#">London</a>
+                                    <br> <a href="#">Shopname</a>
+                                    <br> <a href="#">Ebay</a>
+                                    <br> <a href="#">Fashion store</a>
+                                    <br> <a href="#">Flexstore</a>
+                                    <br> <a href="#">Fashion store</a> 
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="col-sm-3">
+                              <div class="row coupons-cat">
+                                 <div> <a href="#">Liverpool</a>
+                                    <br> <a href="#">Hostgator</a>
+                                    <br> <a href="#">Shopname</a>
+                                    <br> <a href="#">Envato</a>
+                                    <br> <a href="#">Noname</a>
+                                    <br> <a href="#">SomeStore</a>
+                                    <br> 
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="col-sm-3">
+                              <div class="row coupons-cat">
+                                 <div> <a href="#">London</a>
+                                    <br> <a href="#">Shopname</a>
+                                    <br> <a href="#">Ebay</a>
+                                    <br> <a href="#">Fashion store</a>
+                                    <br> <a href="#">Flexstore</a>
+                                    <br> <a href="#">Fashion store</a> 
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="col-sm-3">
+                              <div class="row coupons-cat">
+                                 <div> <a href="#">Liverpool</a>
+                                    <br> <a href="#">Hostgator</a>
+                                    <br> <a href="#">Shopname</a>
+                                    <br> <a href="#">Envato</a>
+                                    <br> <a href="#">Noname</a>
+                                    <br> 
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div id="tab2" class="tab-pane">
+                           <div class="col-sm-3">
+                              <div class="row coupons-cat">
+                                 <div> <a href="#">Avon</a>
+                                    <br> <a href="#">Travel</a>
+                                    <br> <a href="#">Gifts</a>
+                                    <br> <a href="#">Tickets</a>
+                                    <br> <a href="#">Phone</a>
+                                    <br> 
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="col-sm-3">
+                              <div class="row coupons-cat">
+                                 <div> <a href="#">Durham</a>
+                                    <br> <a href="#">Recharge</a>
+                                    <br> <a href="#">Toys</a>
+                                    <br> <a href="#">Fashion</a>
+                                    <br> 
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="col-sm-3">
+                              <div class="row coupons-cat">
+                                 <div> <a href="#">Avon</a>
+                                    <br> <a href="#">Travel</a>
+                                    <br> <a href="#">Gifts</a>
+                                    <br> <a href="#">Tickets</a>
+                                    <br> <a href="#">Phone</a>
+                                    <br> 
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="col-sm-3">
+                              <div class="row coupons-cat">
+                                 <div> <a href="#">Durham</a>
+                                    <br> <a href="#">Recharge</a>
+                                    <br> <a href="#">Toys</a>
+                                    <br> <a href="#">Fashion</a>
+                                    <br> 
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            </div>
+            <section class="call-to-action">
+               <div class="container">
+                  <div class="row explain_group">
+                     <div class="col-md-4">
+                        <a class="item" rel="nofollow" href="#">
+                           <div class="box-icon"> <i class="bg-danger ti-search"></i> </div>
+                           <div class="box-info">
+                              <h3>Search coupons</h3>
+                              <h4>Find best money-saving coupons.</h4>
+                              <div class="point"><i class="ti-check"></i><span>Find fresh coupons</span> </div>
+                              <div class="point"><i class="ti-check"></i><span>Top Coupons & Offers</span> </div>
+                           </div>
+                        </a>
+                     </div>
+                     <div class="col-md-4">
+                        <a class="item" rel="nofollow" href="#">
+                           <div class="box-icon"> <i class="bg-info ti-shopping-cart-full"></i> </div>
+                           <div class="box-info">
+                              <h3>Save your money</h3>
+                              <h4>Find best money-saving coupons.</h4>
+                              <div class="point"><i class="ti-check"></i><span>Find fresh coupons</span> </div>
+                              <div class="point"><i class="ti-check"></i><span>Top Coupons & Offers</span> </div>
+                           </div>
+                        </a>
+                     </div>
+                     <div class="col-md-4">
+                        <a class="item" rel="nofollow" href="#">
+                           <div class="box-icon"> <i class="bg-purple ti-gift"></i> </div>
+                           <div class="box-info">
+                              <h3>Earn your gifts</h3>
+                              <h4>Find best money-saving coupons.</h4>
+                              <div class="point"><i class="ti-check"></i><span>Find fresh coupons</span> </div>
+                              <div class="point"><i class="ti-check"></i><span>Top Coupons & Offers</span> </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+               </div>
+            </section>
+            </div>
+            <!-- Footer -->
+             <footer id="footer">
+               <div class="btmFooter">
+                  <div class="container">
+                     <div class="row">
+                        <div class="col-sm-10 col-sm-offset-1 text-center">
+                           <ul class="list-inline list-unstyled">
+                              <li><a href="#">About Us</a> </li>
+                              <li><a href="#">Site Map</a> </li>
+                              <li><a href="#">Privacy Policy</a> </li>
+                              <li><a href="#">Terms Of Use</a> </li>
+                           </ul>
+                        </div>
+                     </div>
+                     <div class="col-sm-12 text-center m-t-20">
+                        <p> <strong>
+                           Copyright 2019 
+                           </strong> @ CouponCodeWiz. All Rights Reserved.
+                        </p>
+                     </div>
+                     <div class="col-sm-12 text-center m-t-30">
+                     </div>
+                  </div>
+               </div>
+            </footer>
+            <!-- start modal -->
+           <!-- Large modal -->
+         <div class="coupon_modal modal fade couponModal" tabindex="-1" role="dialog">
+            <div class="modal-dialog modal-lg" role="document">
+               <div class="modal-content">
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true"><i class="ti-close"></i></span> </button>
+                  <div class="coupon_modal_content">
+                     
+                     <div class="row">
+                        <div class="col-sm-10 col-sm-offset-1 text-center">
+                           <h2>Save 30% off New Domains Names</h2>
+                           <p>Not applicable to ICANN fees, taxes, transfers,or gift cards. Cannot be used in conjunction with any other offer, sale, discount or promotion. After the initial purchase term.</p>
+                        </div>
+                         
+                     <div class="row">
+                         <div class="col-sm-12">
+                             <h5 class="text-center text-uppercase m-t-20 text-muted">Click below to get your coupon code</h5>
+                         </div>
+                         
+                        <div class="col-sm-4 col-sm-offset-4 col-xs-6 col-xs-offset-3"> <a href="#" target="_blank" class="coupon_code alert alert-info"><span class="coupon_icon"><i class="ti-cut hidden-xs"></i></span>  DAZ50-8715 
+                           </a> 
+                        </div>
+                     </div>
+                     </div>
+                  </div>
+                  <!-- end: Coupon modal content -->
+               </div>
+              
+                
+                
+                    
+                     <ul class="nav nav-pills nav-justified">
+                  <li role="presentation" class="active"><a href="#" data-toggle="tooltip" data-placement="top" title="" data-original-title="It worked"><i class="ti-check color-green"></i></a> </li>
+                  <li role="presentation"><a href="#" data-toggle="tooltip" data-placement="top" title="" data-original-title="I love it"><i class="ti-heart color-primary"></i></a> </li>
+                  <li role="presentation"><a href="#" data-toggle="tooltip" data-placement="top" title="" data-original-title="It didn't work"><i class="ti-close"></i></a> </li>
+               </ul>
+                
+                  
+            </div>
+         </div>
+         <!-- end: Modall -->
+         </div>
+     
+      <!-- //wrapper -->
+      <!-- jQuery  -->
+      <script src="assets/js/jquery.min.js"></script>
+      <script src="assets/js/bootstrap.min.js"></script>
+      <script src="assets/js/animsition.min.js"></script>
+      <script src="owl.carousel/owl.carousel.min.js"></script>
+      <!-- Kupon js -->
+      <script src="assets/js/kupon.js"></script>
+   </body>
+</html>
+
+
+$(document).ready(function() {
+    "use strict";
+    $(".animsition").animsition({
+        inClass: "fade-in",
+        outClass: "fade-out",
+        inDuration: 300,
+        outDuration: 300,
+        linkElement: ".animsition-link",
+        loading: !0,
+        loadingParentElement: "body",
+        loadingClass: "animsition-loading",
+        unSupportCss: ["animation-duration", "-webkit-animation-duration", "-o-animation-duration"],
+        overlay: !1,
+        overlayClass: "animsition-overlay-slide",
+        overlayParentElement: "body"
+    }), $(".main-slider").owlCarousel({
+        items: 1,
+        loop: !1,
+        center: !0,
+        margin: 10,
+        autoplayHoverPause: !0,
+        dots: !1,
+        nav: !1
+    }), $('[data-toggle="tooltip"]').tooltip(), $().button("toggle"), $(".bg-image").css("background", function() {
+        var a = "url(" + $(this).data("image-src") + ") no-repeat center center";
+        return a
+    }), $(".bg-image").css("background-size", "cover"), $(".navbar-toggle").on("click", function(a) {
+        $(this).toggleClass("open"), $("#navigation").toggle("slide")
+    }), $(".navigation-menu>li").slice(-1).addClass("last-elements"), $('.navigation-menu li.has-submenu a[href="#"]').on("click", function(a) {
+        $(window).width() < 987 && (a.preventDefault(), $(this).parent("li").toggleClass("open").find(".submenu:first").toggleClass("open"))
+    }), $(function() {
+        var header = $(".header");
+        $(window).scroll(function() {
+            var scroll = $(window).scrollTop();
+            if (scroll >= 80) {
+                header.addClass("shadow")
+            } else {
+                header.removeClass("shadow")
+            }
+        })
+    })
+})
+
+
+.pure-u-1{
+	width: 100%;
+}
+
+.pure-u-1{
+	display: inline-block;
+	zoom: 1;
+	letter-spacing: normal;
+	word-spacing: normal;
+	vertical-align: top;
+	text-rendering: auto
+ }
